@@ -1,2 +1,2 @@
 Đây là file week.txt.
-Thuộc brand: week 1 mà thôi.
+Thuộc branch: week1 và main.
